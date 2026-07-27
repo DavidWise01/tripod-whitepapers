@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1379
 slug  : tripod-whitepapers
-seal  : 192aeac7c4e9a16b20131650fe1ba962f1c61c4a2013bb3c65be7cfa9f321ca5
-prev  : 2ef2f10a9f5af0643c491e7b12d500353d426a02996330668b03de4867a5827f
-link  : 652b5797d20381f1b94113b495dea1649ef2521674c001ca1d4a45e8e47a8271
-head  : 41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da
+seal  : f029611400d5575b9a86851faee9779dff1fc2d42c0ce2632755d58085f8930b
+prev  : d8d5e401db018aed71aa21fa70cf8f385321526f0dc00d4666aa61e92e11962b
+link  : 8b95fa99fb54c92b75305f5c6f0cd17e68d51e3f60d1ebbf632addde04d6ae3c
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
